@@ -53,9 +53,5 @@ Currently shipping [Whoscall](https://play.google.com/store/apps/details?id=gogo
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pollyannaanalytics&show_icons=true&theme=tokyonight&hide_border=true)
-
----
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pin-yun-wu/)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@androidpollyanna)
