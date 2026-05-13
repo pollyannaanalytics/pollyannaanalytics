@@ -2,7 +2,7 @@
 
 > Full-stack Kotlin Engineer — I build **SDKs**, **mobile apps**, and **cloud backends** in one language: **Kotlin**.
 
-Currently shipping [Whoscall](https://www.gogolook.com/) at Gogolook · 500M+ users · Based in Prague
+Currently shipping [Whoscall](https://play.google.com/store/apps/details?id=gogolook.callgogolook2&hl=en) at Gogolook · 500M+ users · Based in Prague
 
 ---
 
