@@ -2,7 +2,7 @@
 
 > Full-stack Kotlin Engineer — I build **SDKs**, **mobile apps**, and **cloud backends** in one language: **Kotlin**.
 
-Currently shipping [flashscore](https://play.google.com/store/apps/details?id=gogolook.callgogolook2&hl=en) at Livesport · Based in Prague
+Currently shipping [flashscore](https://play.google.com/store/apps/details?id=eu.livesport.FlashScore_com&hl=cs&gl=BE) at Livesport · Based in Prague
 
 ---
 
